@@ -1,2 +1,3 @@
 # Proyecto-311-Final
-OurFile was to big to upload it wihtout zipping it so idk if that what you wanted us to, i hope so
+OurFile was to big to upload it wihtout zipping it so idk if that what you wanted us to and so i also added all the files except node_module because it didnt let me upload this one. so a zip with all the files and all the files except nodemodule.
+El archivo que intentaste subir era demasiado grande para cargarlo sin comprimirlo, así que no estoy seguro si eso era lo que se esperaba. También agregué todos los archivos excepto la carpeta `node_modules`, ya que no me permitió cargarla. Así que, he subido un archivo comprimido con todos los archivos, excluyendo `node_modules`.
